@@ -7,8 +7,10 @@ h1{
 }
 .loder{
 	position:absolute;
-    top:300px;
-    left:480px;
+/*     top:300px;
+    left:480px; */
+	top: 200px;
+	left:300px;
 	transform:rotateX(75deg); 
 }
 .last{
